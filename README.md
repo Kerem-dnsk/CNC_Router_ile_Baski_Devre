@@ -1,9 +1,9 @@
 # PCB Manufacturing Using CNC Router
 
-Board Type: Single Layer
-Manufacturing Method: CNC Isolation Routing
-Tool Diameter: 0.7 mm
-Substrate: FR4
+-Board Type: Single Layer
+-Manufacturing Method: CNC Isolation Routing
+-Tool Diameter: 0.7 mm
+-Substrate: FR4
 
 
 ## 📖 Project Overview
