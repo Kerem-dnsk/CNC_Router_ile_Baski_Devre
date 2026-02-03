@@ -5,6 +5,10 @@
 -Tool Diameter: 0.7 mm
 -Substrate: FR4
 
+# Workflow Diagram
+  Altium → Gerber → FlatCAM → G-code → CNC → PCB
+
+
 
 ## 📖 Project Overview
 This project demonstrates the complete workflow of printed circuit board (PCB) manufacturing using a CNC router. The process includes PCB design using Altium Designer, toolpath generation using FlatCAM, and physical PCB production using CNC machining.
